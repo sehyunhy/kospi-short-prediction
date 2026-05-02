@@ -80,7 +80,7 @@ kospi_short_selling/
 ### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kospi_short_selling.git
+git clone https://github.com/sehyunhy/kospi_short_selling.git
 cd kospi_short_selling
 ```
 
